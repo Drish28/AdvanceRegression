@@ -14,7 +14,9 @@ The ultimate goal is to create a robust model that accurately captures the dynam
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-##Inferences 
+
+## Conclusions
+
 1. The Ridge Regression model was optimized with a lambda value of 5.0.
 2. Lasso Regression achieved its optimal performance with a lambda value of 0.001.
 3. Utilizing Ridge Regression:
@@ -30,11 +32,6 @@ The ultimate goal is to create a robust model that accurately captures the dynam
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
